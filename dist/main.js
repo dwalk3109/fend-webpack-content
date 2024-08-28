@@ -1,1 +1,4 @@
-alert("test");
+/******/ (() => { // webpackBootstrap
+alert('test');
+/******/ })()
+;
